@@ -6,6 +6,9 @@
 
 The concept of Environmental Zones originated in Sweden in 1996 and can be considered the first LEZ program. Following the Swedish example, Low Emission Zones were implemented in a few cities in Germany, the Netherlands, northern Italy, as well as London in 2007-2008. Since then, the number of LEZs has steadily increased, and they now exist in many EU countries.
 
+![image](https://github.com/katchuli/PROJECT-Low-Emission-Zone-/assets/154369810/a46d10c2-bb18-47d0-b1c0-6af4b4b86131)
+
+
 In the case of Berlin, the implementation of the LEZ was facilitated through the use of the Green Badge (Grün Plakette). This green badge (Euro 4) allows low-emission vehicles to circulate within the restricted zones, while prohibiting vehicles with yellow and red stickers (Euro 3 and Euro 2) from entering these areas.
 
 https://dieselnet.com/standards/eu/lez.php
