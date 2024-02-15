@@ -35,5 +35,9 @@ https://www.cleanairfund.org/news-item/warsaw-second-ever-low-emission-zone/
 
 Refer to relevant literature on air pollution, environmental policies, and urban planning.
 
+## Data Sources:
+https://www.eea.europa.eu/en/datahub/datahubitem-view/49930245-dc33-4c47-93b8-9512f0622ebc
+https://discomap.eea.europa.eu/App/AQViewer/index.html?fqn=Airquality_Dissem.hra.cities_sel
+
 
 
